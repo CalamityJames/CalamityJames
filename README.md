@@ -9,3 +9,5 @@ I'm James, nice to meet you! If you've taken the time to land on my page, I gues
 - Outside of computers, I have an unhealthy obsession with [Nissans](https://www.calamityjames.co.uk/my-cars/tag/nissan) and have owned 18 of them.
 - I enjoy trains, and have [contributed a couple of times](https://github.com/chrisys/train-departure-display) to a UK departure board repo.
 - I also enjoy planes, and run my own ADS-B scanner that feeds into Flightradar, Flightaware and ADSBX.
+
+![Top Langs](https://github-readme-stats-amber-five-62.vercel.app/api/top-langs/?username=CalamityJames&layout=compact)
